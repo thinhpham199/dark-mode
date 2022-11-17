@@ -1,0 +1,24 @@
+body {
+    background-color: white;
+    color: #3a3b3c;
+    font-size: 25px;
+}
+
+.dark-mode {
+    background-color: #3a3b3c;
+    color: white;
+}
+
+.dark-mode>button {
+    background-color: #3a3b3c;
+    color: white;
+    border: 1px solid white;
+}
+
+button {
+    width: 100px;
+    height: 50px;
+    font-weight: bold;
+    font-size: 15px;
+    border-radius: 10%;
+}
